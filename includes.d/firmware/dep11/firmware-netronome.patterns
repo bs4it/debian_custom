@@ -1,0 +1,4 @@
+^pci:v000019EEd00004000sv000019EEsd.*bc.*sc.*i.*$
+^pci:v000019EEd00005000sv000019EEsd.*bc.*sc.*i.*$
+^pci:v000019EEd00006000sv000019EEsd.*bc.*sc.*i.*$
+^pci:v000019EEd00006003sv000019EEsd.*bc.*sc.*i.*$
